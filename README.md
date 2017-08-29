@@ -4,11 +4,13 @@ Unlike Esperanto, Toki Pona is a constructed language that favors simplicity ove
 These lessons are based on the offical Toki Pona book of Sonja Lang ( [tokipona.org](http://tokipona.org) ) 
 and the lessons of jan Pije ( [tokipona.net/tp/janpije](http://tokipona.net/tp/janpije/) ). 
 
+Letter fork by jan Kesi 
+
 ## Generated PDF, HTML and TXT Files
 
 ### Lessons
 
-[toki-pona-lessons_en.pdf](https://github.com/jan-Lope/Toki_Pona_lessons_English/blob/gh-pages/toki-pona-lessons_en.pdf) Generated Book (A4)  
+[toki-pona-lessons_en.pdf](https://github.com/keisisqrl/Toki_Pona_lessons_English/blob/gh-pages/toki-pona-lessons_en.pdf) Generated Book (Letter)  
 Use the button "Download". If you get an error 404, please press the "shift" key and the "reload" button in your browser.
 
 [toki-pona-lessons_de-booklet.pdf](https://github.com/jan-Lope/Toki_Pona_lessons_English/blob/gh-pages/toki-pona-lessons_en-booklet.pdf) Generated Booklet (A5). 
